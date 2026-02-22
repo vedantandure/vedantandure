@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Vedant
 
-<!--
-**vedantandure/vedantandure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Python Developer | Open to Internship Opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Programming: Python, C++
+- Web: HTML, CSS, JavaScript
+- Tools: VS Code, Git, GitHub
+- Libraries: Pandas, NumPy, Matplotlib
+
+---
+
+## 📂 Projects
+1. **ImageTranslate Web App** - Multi-language image recognition
+2. **Sports Data Analysis** - Cricket and Football stats analytics
+3. **Banking Fraud Detection** - Detect fraud in banking transactions
+
+---
+
+## 📫 Contact Me
+- Email: vedant@example.com
+- LinkedIn: [linkedin.com/in/vedant](https://linkedin.com)
+- GitHub: [github.com/vedant-codes](https://github.com/vedant-codes)
+
+---
+
+⭐ Always learning | Building real-world projects
