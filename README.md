@@ -14,9 +14,6 @@
 
 ## 📂 Projects
 1. **ImageTranslate Web App** - Multi-language image recognition
-2. **Sports Data Analysis** - Cricket and Football stats analytics
-3. **Banking Fraud Detection** - Detect fraud in banking transactions
-
 ---
 
 ## 📫 Contact Me
